@@ -1,5 +1,6 @@
 React Movie web app (practice)
-This is the small project that aim to improve knowledge to use react
+
+Note: This is the small project that aim to improve knowledge to use react
 
 ## Setup
 Goto the project folder and install required dependencies:
